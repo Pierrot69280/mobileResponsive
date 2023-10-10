@@ -47,7 +47,7 @@ html, body {
 
 .raclette {
     padding: 1vh;
-
+    background-color: darkorange;
     font-family: 'Fragment Mono', monospace;
     font-family: 'Montserrat', sans-serif;
     margin-top: 2cm;
